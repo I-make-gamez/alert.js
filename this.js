@@ -39,5 +39,5 @@ function fallbackCopyTextToClipboard(text) {
     copyJaneBtn = document.querySelector('.js-copy-jane-btn');
   
   copyLinkBtn.addEventListener('click', function(event) {
-    copyTextToClipboard('<link rel="text/javascript" href="https://cdn.imakegamez.com/alert.js">');
+    copyTextToClipboard('<script src="https://cdn.imakegamez.com/alert.js"></script>');
   });
