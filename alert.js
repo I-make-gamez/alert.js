@@ -1,5 +1,5 @@
 var ans;
-function alert(type, title, text) {
+function alertJs(type, title, text) {
     switch (type) {
         case 'alert':
             // Create alert elements
