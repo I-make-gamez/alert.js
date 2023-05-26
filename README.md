@@ -1,2 +1,2 @@
 # alert.js
-a framework made to build custom alerts. Feel free to use it on ur own
+for more info visit <a href="https://cdn.imakegamez.com">cdn.imakegamez.com</a>
