@@ -1,0 +1,29 @@
+/* #r{
+    background-color: red;
+    pointer-events: none;
+
+}
+
+#g{
+    background-color: green;
+    pointer-events: none;
+
+}
+
+#b{
+    background-color: blue;
+    pointer-events: none;
+
+}
+
+input{
+    width: 201.33px;
+}
+
+.scust{
+    padding: 0;
+    position: absolute;
+    top: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
